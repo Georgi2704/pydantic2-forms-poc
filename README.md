@@ -4,7 +4,7 @@ This project runs on Python 3.10
 
 1.Install the required packages
 ```bash
- pip install -r requirments.txt
+ pip install -r requirements.txt
 ```
 
 2. Run the webserver
