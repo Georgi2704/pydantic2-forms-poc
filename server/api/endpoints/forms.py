@@ -37,7 +37,6 @@ def get_forms() -> list[str]:
 
     """
     register_forms()
-    # return "YOLA"
     return list_forms()
 
 
